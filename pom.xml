@@ -11,8 +11,10 @@
 
     <modules>
         <!--        <module>darren-dmall-model</module>-->
-        <module>renren-fast</module>
         <module>darren-dmall-product</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>darren-dmall-common</module>
     </modules>
 
 
